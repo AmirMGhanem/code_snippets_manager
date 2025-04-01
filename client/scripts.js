@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:8000/snippets";
+const API_URL = "https://codesnippetsmanager-production.up.railway.app/snippets";
 let codeEditor;
 
 // Initialize CodeMirror when the page loads
